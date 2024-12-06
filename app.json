@@ -29,7 +29,7 @@
         },
         "DATABASE_URL":{
             "description": "Database URL from https://cloud.mongodb.com/",
-            "value": ""
+            "value": "mongodb+srv://naikmithun274:MPOo2wpAjCx49bEY@telegram.pdb2s.mongodb.net/?retryWrites=true&w=majority&appName=Telegram"
         },
         "IS_PUBLIC":{
             "description": "Optional: set this False, if the bot is only for admins",
@@ -38,8 +38,8 @@
         },
         "START_MESSAGE": {
             "description": "Optional: custon start message of bot, use HTML parsemode format",
-            "value": "",
-            "required": false
+            "value": "WELL COME TO SHADOW SLAYER BOT",
+            "required": true
         },
         "ADMINS": {
             "description": "A space separated list of user_ids of Admins, they can only create links",
