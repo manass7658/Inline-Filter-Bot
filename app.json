@@ -38,8 +38,8 @@
         },
         "START_MESSAGE": {
             "description": "Optional: custon start message of bot, use HTML parsemode format",
-            "value": "WELL COME TO SHADOW SLAYER BOT",
-            "required": true
+            "value": "",
+            "required": false
         },
         "ADMINS": {
             "description": "A space separated list of user_ids of Admins, they can only create links",
